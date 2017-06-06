@@ -1,11 +1,11 @@
 
 ## Creational
 Creational patterns are ones that create objects for you, rather than having you instantiate objects directly. This gives your program more flexibility in deciding which objects need to be created for a given case.
-- Abstract factory pattern groups object factories that have a common theme.
-- Builder pattern constructs complex objects by separating construction and representation.
-- Factory method pattern creates objects without specifying the exact class to create.
-- Prototype pattern creates objects by cloning an existing object.
-- Singleton pattern restricts object creation for a class to only one instance.
+- Abstract factory: groups object factories that have a common theme.
+- Builder         : constructs complex objects by separating construction and representation.
+- Factory method  : creates objects without specifying the exact class to create.
+- Prototype       : creates objects by cloning an existing object.
+- Singleton       : restricts object creation for a class to only one instance.
 	
 ## Structural
 These concern class and object composition. They use inheritance to compose interfaces and define ways to compose objects to obtain new functionality.
